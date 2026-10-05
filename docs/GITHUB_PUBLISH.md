@@ -11,7 +11,7 @@ README đã ghi nhận cả hai thành viên và phân biệt báo cáo cục b�
 
 ## Publish bằng Git
 
-Đăng nhập GitHub trên trình duyệt, tạo repository trống tại tài khoản trên. Không khởi tạo thêm README, license hoặc .gitignore ở bước tạo vì đã có file local. Bản local đã git init và đặt remote dự kiến; chưa có commit và chưa push.
+Đăng nhập GitHub trên trình duyệt, tạo repository trống tại tài khoản trên. Không khởi tạo thêm README, license hoặc .gitignore ở bước tạo vì đã có file local. Repository đã được tạo công khai và push lên https://github.com/haquanghuy1230-wq/esp32-smart-door-lock ngày 05/10/2026. Các bước bên dưới dùng khi cập nhật tiếp hoặc tạo lại từ bản sao.
 
 PowerShell:
 
