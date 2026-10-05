@@ -1,0 +1,16 @@
+config.local.h
+.env
+.env.*
+!.env.example
+*.rar
+*.zip
+*.docx
+*.pdf
+*.bin
+*.elf
+*.map
+.pio/
+build/
+.DS_Store
+Thumbs.db
+~$*
